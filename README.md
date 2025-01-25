@@ -1,5 +1,5 @@
 # ocr-with-tesseract
-The intention of this project is to show how to work with OCR with [Tesseract] (https://github.com/tesseract-ocr/tesseract/blob/main/README.md) Library using python Flask. 
+The intention of this project is to show how to work with OCR with [Tesseract](https://github.com/tesseract-ocr/tesseract/blob/main/README.md) Library using python Flask. 
 
 ### Features
 

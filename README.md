@@ -31,12 +31,11 @@ The intention of this project is to show how to work with OCR with [Tesseract](h
     pip install pytesseract
     pip install numpy opencv-python
     pip install numpy
-
+ 
+ Need to install [Tesseract](https://tesseract-ocr.github.io/tessdoc/Compiling.html) in your local machine.
+ 
 4. Run the project
     ```bash
     set FLASK_APP=app
     flask run
 On local machine, open browser and go to: http://127.0.0.1:5000
-
-     
-
